@@ -1,18 +1,35 @@
-# Hello-Microverse
-Built With
-.Html
-.CSS
-.Javascript
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-Getting Started
- .pull the project then run it with broweser
-Prerequisites
- .Use browser
- .Install
-Authors
- .GitHub: @nati2323
+# Project Name
+
+> Hello Microverse!
+
+
+## Built With
+
+- HTML
+- CSS
+- JS
+
+## Getting Started
+
+**pull the project then run it with broweser**
+
+### Setup
+
+### Install
+
+## Authors
+
+👤 **Author1**
+
+- GitHub: [@githubhandle](https://github.com/nati2323)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/natnael-amare-b5844510a/)
+
+## Show your support
+
 Give a ⭐️ if you like this project!
-License
- .This project is MIT licensed.
 
+## 📝 License
 
+This project is [MIT](./MIT.md) licensed.

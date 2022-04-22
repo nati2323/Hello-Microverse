@@ -23,7 +23,7 @@
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/nati2323)
+- GitHub: [@Natnael](https://github.com/nati2323)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/natnael-amare-b5844510a/)
 
 ## Show your support
